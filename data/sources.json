@@ -1,0 +1,12 @@
+[
+  {"name": "Bluebook + 6 practice tests", "category": "official mock", "level": "900-1600", "cost": "free", "for": "adaptive mocks", "url": "https://bluebook.collegeboard.org/"},
+  {"name": "College Board Question Bank", "category": "official bank", "level": "900-1600", "cost": "free", "for": "skill drills", "url": "https://satsuitequestionbank.collegeboard.org"},
+  {"name": "Khan Academy Digital SAT", "category": "course", "level": "900-1500", "cost": "free", "for": "adaptive path", "url": "https://www.khanacademy.org/digital-sat"},
+  {"name": "1600.io", "category": "video solutions", "level": "1100-1600", "cost": "freemium", "for": "official test explanations", "url": "https://www.1600.io"},
+  {"name": "College Panda SAT Math", "category": "book", "level": "1100-1600", "cost": "paid", "for": "math drills", "url": "https://thecollegepanda.com"},
+  {"name": "Erica Meltzer RW", "category": "book", "level": "1100-1600", "cost": "paid", "for": "reading grammar", "url": "https://ericalmeltzer.com"},
+  {"name": "Scalar Learning YouTube", "category": "youtube", "level": "1300-1600", "cost": "free", "for": "live solves Desmos", "url": "https://www.youtube.com/@ScalarLearning"},
+  {"name": "Settele Tutoring", "category": "youtube", "level": "1000-1500", "cost": "free", "for": "RW strategy", "url": "https://www.youtube.com/"},
+  {"name": "UWorld SAT", "category": "bank", "level": "1200-1600", "cost": "paid", "for": "hard Qs", "url": "https://www.uworld.com"},
+  {"name": "Desmos", "category": "tool", "level": "All", "cost": "free", "for": "calculator mastery", "url": "https://www.desmos.com"}
+]
