@@ -1,16 +1,20 @@
-# Math — Advanced Math (~35%)
+# Math — Advanced Math (v2, ~35% Math)
 
-Quadratics, polynomials, exponents, rational expressions, function transformations, equivalent forms.
+Quadratics, polynomials, exponents, rationals, functions, equivalents. Decides 700→770.
 
-## Patterns
-- Factoring: `x^2+bx+c`, difference of squares, completing square for vertex.
-- Vertex form `a(x-h)^2+k` → vertex (h,k). Roots via factoring/Quadratic formula.
-- Exponents: add/sub when multiplying/dividing same base. Negative = 1/...
-- Equivalent: expand/factor to match choice, plug x=2 to test options fast.
-- Functions: shifts (inside = horizontal opposite, outside = vertical), composite.
+## High-Yield Patterns + Fixes
 
-## Desmos
-Graph quadratics to read roots/vertex instead of algebra when stuck. Check vertex with table.
+- **Factoring:** `x²+bx+c` → two numbers sum b, product c. Diff squares `a²-b²=(a-b)(a+b)`. If stuck >60s → Quadratic formula `x=(-b±√(b²-4ac))/2a`.
+- **Vertex:** `y=a(x-h)²+k` → vertex (h,k). Max if a<0, min if a>0. Roots = x-intercepts (graph to read).
+- **Exponents:** `xᵃ·xᵇ=xᵃ⁺ᵇ`, `(xᵃ)ᵇ=xᵃᵇ`, `x⁻ᵃ=1/xᵃ`. Add logs to Anki.
+- **Equivalents:** expand/factor to match. Trick: plug x=2 into Q and each choice — match survives.
+- **Transformations:** inside `f(x-h)` = right h (opposite), outside `f(x)+k` = up k. Composite `f(g(2))` = inside first.
+- **Rational:** factor + cancel, note excluded values (denominator ≠0).
+
+## Desmos Beats Algebra When…
+
+Graph `y=ax²+bx+c` → read roots/vertex in 20s. Check equivalent by graphing LHS-RHS (zero line?). Table-test choices.
 
 ## Drill
-Hard Question Bank sets (11 Q). Log: factoring vs formula vs Desmos fastest.
+
+QBank Hard 11 Q / 22 min, twice/week. Log: factoring vs formula vs Desmos fastest. Make formula cards in `data/formulas.json` + Anki.

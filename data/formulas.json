@@ -1,0 +1,11 @@
+[
+  {"type": "algebra", "name": "Slope-intercept", "formula": "y = mx + b; m=(y2-y1)/(x2-x1)", "desmos": "y1=m*x+b with sliders", "trap": "Intercept vs zero"},
+  {"type": "algebra", "name": "Quadratic solutions", "formula": "x=(-b±√(b²-4ac))/2a; vertex x=-b/2a", "desmos": "y=ax^2+bx+c, read roots/vertex", "trap": "Sign on -b"},
+  {"type": "algebra", "name": "Exponent rules", "formula": "x^a·x^b=x^(a+b); (x^a)^b=x^(ab); x^-a=1/x^a", "desmos": "Graph both sides to verify", "trap": "(x+y)^2 ≠ x^2+y^2"},
+  {"type": "data", "name": "Percent change", "formula": "(new-old)/old×100", "desmos": "Table to check", "trap": "% of vs % increase"},
+  {"type": "data", "name": "Probability", "formula": "wanted/total; given shrinks total", "desmos": "-", "trap": "Misread given condition"},
+  {"type": "geometry", "name": "Circle equation", "formula": "(x-h)^2+(y-k)^2=r^2", "desmos": "Type to verify center/radius", "trap": "r vs r^2"},
+  {"type": "geometry", "name": "Special triangles", "formula": "45-45-90: x,x,x√2; 30-60-90: x,x√3,2x; triples 3-4-5,5-12-13", "desmos": "Geometry sketch", "trap": "Short vs long leg"},
+  {"type": "geometry", "name": "SOHCAHTOA", "formula": "sin=opp/hyp; cos=adj/hyp; tan=opp/adj; sin(x)=cos(90-x)", "desmos": "-", "trap": "Degrees vs complementary"},
+  {"type": "rw", "name": "Comma splice fix", "formula": "Two independents cannot join with comma → . ; : +FANBOYS —", "desmos": "-", "trap": "Long choice with extra fluff"}
+]

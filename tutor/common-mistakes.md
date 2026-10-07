@@ -1,15 +1,25 @@
-# Common Mistakes (SAT 1200 cap list)
+# Common Mistakes That Cap 1200-1350 (v2)
 
-## RW
-1. Picking half-right (one word off). Match all parts of choice.
-2. Comma splices + apostrophe mix (its/it's, their/there). Drill punctuation first.
-3. Outside knowledge. Passage only.
-4. Spending 3 min on 1 hard Q. Guess + move, hard Module 2 Qs equal points.
+Check before every mock. 80% of plateaus are here, not “hard content.”
 
-## Math
-1. No Desmos check (solvable graphed in 20 sec, algebra in 2 min).
-2. Misread (% of vs % increase, radius vs diameter, solve for x vs 2x).
-3. Sign/fraction slips. Plug answer back in.
-4. Not marking guesses. Never leave blank (no penalty).
+## RW (cost: 50-100 pts)
 
-Check before every mock.
+1. **Half-right choices** — one word off (scope, tone, time). Fix: match every word, quote evidence.
+2. **Comma splice blindness** — two independents + comma picked as correct. Fix: find subject+verb both sides → need `. ; : +FANBOYS`.
+3. **Apostrophe swaps** — its/it's, their/there, your/you're. Fix: expand contraction to test.
+4. **Transition by feel** — picked “however” for example. Fix: label relation (contrast/cause/example) from before+after sentences.
+5. **Outside knowledge** — true in life, not in passage. Fix: passage-only rule, underline support.
+6. **Time sink** — 3 min on Q22, rush Q25-27 (easy points lost). Fix: 90-sec flag rule.
+
+## Math (cost: 50-100 pts)
+
+1. **No Desmos** — 2-min algebra for 20-sec graph (systems, quadratics). Fix: graph if >60s.
+2. **Solving for wrong thing** — x vs 2x vs x+1, diameter vs radius, % of vs increase. Fix: underline ask + circle units.
+3. **Sign/fraction slips** — `-3²` vs `(-3)²`, `1/2+1/3`. Fix: plug answer back every Q.
+4. **Blank instead of guess** — no penalty, 25% free. Fix: guess + flag, never blank.
+5. **Units late** — min vs hours, cm vs m. Fix: write units step 1.
+6. **Easy M1 rush** — 2 careless in M1 → locked out of hard M2 → capped 650. Fix: slow first 10, check.
+
+## Test-Day
+
+Laptop not updated, no charger, no ID/ticket, no sleep. Pack night before. Morning Bluebook check + 11Q warm-up.
