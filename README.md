@@ -258,6 +258,7 @@ sat-study-tutor/
 ## 📐 Desmos Starter
 
 > Dedicated companion repo: **[desmos-sat-guide](https://github.com/Flynntaggart26/desmos-sat-guide)** — 30 copy-paste inputs, 10 worked examples, 15 speed drills, printable 1-page cheatsheet.
+> 🌐 **Live interactive webpage (real Desmos inside): https://flynntaggart26.github.io/desmos-sat-guide/** — calculator + Desmos-friendly question types + tricks + full 6Q exercise.
 
 Built into Bluebook Math. Learn these 5 first (full 15 in [`templates/desmos-cheatsheet.md`](templates/desmos-cheatsheet.md), full 30 in [desmos-sat-guide](https://github.com/Flynntaggart26/desmos-sat-guide)):
 
