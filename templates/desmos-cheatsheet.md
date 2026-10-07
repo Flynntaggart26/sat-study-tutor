@@ -1,6 +1,8 @@
 # Desmos Cheatsheet — 15 Must-Know Inputs
 
 > Built into Bluebook Math. Practice in test mode 10 min/day. If algebra >90s, graph it.
+>
+> Full companion repo with 30 inputs, 10 worked examples, 15 drills: **[desmos-sat-guide](https://github.com/Flynntaggart26/desmos-sat-guide)** — start with its [`1-page cheatsheet`](https://github.com/Flynntaggart26/desmos-sat-guide/blob/main/cheatsheets/1-page.md).
 
 1. Line: `y=mx+b` — add sliders for m/b to feel slope/intercept.
 2. System: `y1=2x+3`, `y2=-x+5` → click intersection = solution (x,y).

@@ -129,7 +129,7 @@ flowchart LR
 | ★★★★★ | [Khan Academy Digital SAT](https://www.khanacademy.org/digital-sat) | Official adaptive path | Free | 900-1500 |
 | ★★★★☆ | [1600.io](https://www.1600.io) | Video solutions to official tests | Free / paid | 1100+ |
 | ★★★★☆ | College Panda Math + Erica Meltzer RW | 1300→1500 polish | Paid | 1200+ |
-| ★★★★☆ | Desmos built-in + UWorld bank | Calc speed + hard volume | Free / paid | 1200+ |
+| ★★★★☆ | Desmos built-in + [desmos-sat-guide](https://github.com/Flynntaggart26/desmos-sat-guide) + UWorld | Calc speed + hard volume | Free / paid | 1200+ |
 
 Free to 1400 path: Bluebook + QBank + Khan + 1600.io free. Paid adds speed to 1500+: 1 Math book + 1 RW book + UWorld 1 month.
 
@@ -257,7 +257,9 @@ sat-study-tutor/
 
 ## 📐 Desmos Starter
 
-Built into Bluebook Math. Learn these 5 first (full 15 in [`templates/desmos-cheatsheet.md`](templates/desmos-cheatsheet.md)):
+> Dedicated companion repo: **[desmos-sat-guide](https://github.com/Flynntaggart26/desmos-sat-guide)** — 30 copy-paste inputs, 10 worked examples, 15 speed drills, printable 1-page cheatsheet.
+
+Built into Bluebook Math. Learn these 5 first (full 15 in [`templates/desmos-cheatsheet.md`](templates/desmos-cheatsheet.md), full 30 in [desmos-sat-guide](https://github.com/Flynntaggart26/desmos-sat-guide)):
 
 1. `y=mx+b` — slide `m`/`b` to see slope/intercept.
 2. Intersection: graph both lines → click point → solution to system.
